@@ -1,5 +1,5 @@
 # Brain_Tumor_Detection
-### This model predicts wether the persion has or has not a brain tumer using the person's MRI images.
+### This model predicts whether the person has or hasn't a brain tumor using the person's MRI images.
 ### There are four class in this classification
 #### 1. Glioma tumor
 #### 2. Meningioma tumor
